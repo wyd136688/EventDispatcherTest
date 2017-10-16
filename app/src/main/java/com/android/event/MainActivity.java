@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 }
 /*
-若是只返回false或者super 打印结果：
+若是只返回super 打印结果：
 
  D/MainActivity: >>weiyandong>>> dispatchTouchEvent ACTION_DOWN
  D/MyRelativeLayout: >>weiyandong>>> dispatchTouchEvent ACTION_DOWN
